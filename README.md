@@ -4,7 +4,7 @@
 <h1 align="center" font-weight="bold">Zizi-Task</h1>
  <br>
 
-<p align="center"><a  href = "https://blog-frontend-ysjv.onrender.com" > LIVE DEMO HERE!<a/> </p>
+<p align="center"><a  href = "https://zizi-task.onrender.com" > LIVE DEMO HERE!<a/> </p>
   
  <br>
 
