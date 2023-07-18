@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+.shadow-custom:focus{
+  box-shadow: 0 0 10px 1000px rgba(0, 0, 0, 0.5);
+}
+
+.shadow-custom{
+  box-shadow: inset 0 0 5px black;
+}
+
+.shadow-todo:hover{
+  box-shadow: 0 0 5px black;
+}
+
+.shadow-button{
+  box-shadow: 0 0 10px black;
+}
+
+.font-custom{
+  font-family: 'Indie Flower', cursive;
+}
+
